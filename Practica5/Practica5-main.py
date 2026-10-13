@@ -15,7 +15,7 @@ def export_csv(data, file_path, filename):
 
 def insertion_sort(data, llave):
     for i in range(1, len(data)):
-        key = data[i]
+        key = int(data[i])
         j = i - 1
         while j >= 0 and data[j][llave] > key[llave]:
             data[j + 1] = data[j]
@@ -24,6 +24,12 @@ def insertion_sort(data, llave):
 
 if __name__ == "__main__":
     file_path = '/home/walterms/Documents/Programación/ProgramacionGOD/Practica5/pacientes_mini.csv'
+    file_path2 = '/home/walterms/Documents/Programación/ProgramacionGOD/Practica5/pacientes.csv'
     data = read_csv(file_path)
+    data2 = read_csv(file_path2)
+
     insertion_sort(data, 0)
-    export_csv(data, '/home/walterms/Documents/Programación/ProgramacionGOD/Practica5/')
+    insertion_sort(data2, 0)
+
+    export_csv(data, '/home/walterms/Documents/Programación/ProgramacionGOD/Practica5/pacientes_mini_ordenado.csv', 'pacientes_mini_ordenado.csv')
+    export_csv(data2, '/home/walterms/Documents/Programación/ProgramacionGOD/Practica5/pacientes_ordenado.csv', 'pacientes_ordenado.csv')
