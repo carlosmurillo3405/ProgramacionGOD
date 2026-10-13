@@ -15,7 +15,7 @@ def export_csv(data, file_path, filename):
 
 def insertion_sort(data, llave):
     for i in range(1, len(data)):
-        key = int(data[i])
+        key = data[i]
         j = i - 1
         while j >= 0 and data[j][llave] > key[llave]:
             data[j + 1] = data[j]
