@@ -1,0 +1,1107 @@
+{
+  "pregunta": "¿Es un videojuego?",
+  "si": {
+    "pregunta": "¿Es un juego de disparos?",
+    "si": {
+      "pregunta": "¿Es un simulador?",
+      "si": {
+        "respuesta": "Arma 3"
+      },
+      "no": {
+        "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+        "si": {
+          "pregunta": "¿Se juega en primera persona?",
+          "si": {
+            "pregunta": "¿Ocurre en el espacio o en otro planeta?",
+            "si": {
+              "respuesta": "Halo: The Master Chief Collection"
+            },
+            "no": {
+              "pregunta": "¿Es gratis para jugar?",
+              "si": {
+                "pregunta": "¿Es de Valve?",
+                "si": {
+                  "pregunta": "¿Eliges entre nueve clases con sombrero?",
+                  "si": {
+                    "respuesta": "Team Fortress 2"
+                  },
+                  "no": {
+                    "respuesta": "Counter-Strike 2"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es un battle royale?",
+                  "si": {
+                    "respuesta": "PUBG: BATTLEGROUNDS"
+                  },
+                  "no": {
+                    "respuesta": "THE FINALS"
+                  }
+                }
+              },
+              "no": {
+                "respuesta": "Hell Let Loose"
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Ocurre en un mundo post-apocalíptico?",
+            "si": {
+              "respuesta": "ARC Raiders"
+            },
+            "no": {
+              "respuesta": "HELLDIVERS 2"
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Se juega en primera persona?",
+          "si": {
+            "pregunta": "¿Ocurre en un mundo post-apocalíptico?",
+            "si": {
+              "pregunta": "¿Es una continuación, no la primera entrega?",
+              "si": {
+                "respuesta": "Metro: Last Light"
+              },
+              "no": {
+                "pregunta": "¿Viajas por Rusia en un tren?",
+                "si": {
+                  "respuesta": "Metro Exodus"
+                },
+                "no": {
+                  "respuesta": "Metro 2033 Redux"
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Tiene zombis o infectados?",
+              "si": {
+                "respuesta": "Left 4 Dead 2"
+              },
+              "no": {
+                "pregunta": "¿Está pensado para jugarse en cooperativo?",
+                "si": {
+                  "respuesta": "Borderlands 3"
+                },
+                "no": {
+                  "respuesta": "DOOM"
+                }
+              }
+            }
+          },
+          "no": {
+            "respuesta": "Remnant II"
+          }
+        }
+      }
+    },
+    "no": {
+      "pregunta": "¿Es un juego de supervivencia?",
+      "si": {
+        "pregunta": "¿Es de mundo abierto?",
+        "si": {
+          "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+          "si": {
+            "pregunta": "¿Se juega en primera persona?",
+            "si": {
+              "respuesta": "Fallout 76"
+            },
+            "no": {
+              "pregunta": "¿El mundo está hecho de bloques o voxeles?",
+              "si": {
+                "respuesta": "Minecraft"
+              },
+              "no": {
+                "respuesta": "ARK: Survival Evolved"
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Es en 2D?",
+            "si": {
+              "respuesta": "Terraria"
+            },
+            "no": {
+              "pregunta": "¿Ocurre en el espacio o en otro planeta?",
+              "si": {
+                "pregunta": "¿Pilotas naves espaciales?",
+                "si": {
+                  "respuesta": "No Man's Sky"
+                },
+                "no": {
+                  "respuesta": "ASTRONEER"
+                }
+              },
+              "no": {
+                "respuesta": "7 Days to Die"
+              }
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+          "si": {
+            "respuesta": "Unturned"
+          },
+          "no": {
+            "pregunta": "¿Gran parte del juego ocurre en el agua?",
+            "si": {
+              "pregunta": "¿Ocurre en el espacio o en otro planeta?",
+              "si": {
+                "pregunta": "¿Ocurre en una región helada?",
+                "si": {
+                  "respuesta": "Subnautica: Below Zero"
+                },
+                "no": {
+                  "respuesta": "Subnautica"
+                }
+              },
+              "no": {
+                "respuesta": "Raft"
+              }
+            },
+            "no": {
+              "pregunta": "¿Es un juego de terror?",
+              "si": {
+                "pregunta": "¿Es una continuación, no la primera entrega?",
+                "si": {
+                  "respuesta": "Sons Of The Forest"
+                },
+                "no": {
+                  "respuesta": "The Forest"
+                }
+              },
+              "no": {
+                "pregunta": "¿Puedes construir y craftear cosas?",
+                "si": {
+                  "respuesta": "Valheim"
+                },
+                "no": {
+                  "respuesta": "Muck"
+                }
+              }
+            }
+          }
+        }
+      },
+      "no": {
+        "pregunta": "¿Es un simulador?",
+        "si": {
+          "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+          "si": {
+            "pregunta": "¿Ocurre en el espacio o en otro planeta?",
+            "si": {
+              "respuesta": "Elite Dangerous"
+            },
+            "no": {
+              "pregunta": "¿Juegas como criminal?",
+              "si": {
+                "respuesta": "Schedule I"
+              },
+              "no": {
+                "respuesta": "Tabletop Simulator"
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Es en 2D?",
+            "si": {
+              "pregunta": "¿Revisas documentos y sellas pasaportes?",
+              "si": {
+                "respuesta": "Papers, Please"
+              },
+              "no": {
+                "respuesta": "WorldBox"
+              }
+            },
+            "no": {
+              "pregunta": "¿Manejas camiones de carga?",
+              "si": {
+                "pregunta": "¿Es una continuación, no la primera entrega?",
+                "si": {
+                  "respuesta": "Euro Truck Simulator 2"
+                },
+                "no": {
+                  "respuesta": "American Truck Simulator"
+                }
+              },
+              "no": {
+                "pregunta": "¿Es un juego de estrategia?",
+                "si": {
+                  "respuesta": "Plague Inc: Evolved"
+                },
+                "no": {
+                  "respuesta": "The Sims 4"
+                }
+              }
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Es un juego de fiesta para jugar con amigos en el sillón?",
+          "si": {
+            "pregunta": "¿Es en 2D?",
+            "si": {
+              "pregunta": "¿Los personajes son patos armados?",
+              "si": {
+                "respuesta": "Duck Game"
+              },
+              "no": {
+                "respuesta": "Stick Fight: The Game"
+              }
+            },
+            "no": {
+              "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+              "si": {
+                "respuesta": "Gang Beasts"
+              },
+              "no": {
+                "respuesta": "Overcooked! 2"
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Es en 2D?",
+            "si": {
+              "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+              "si": {
+                "pregunta": "¿Ocurre en el espacio o en otro planeta?",
+                "si": {
+                  "respuesta": "Among Us"
+                },
+                "no": {
+                  "respuesta": "Brawlhalla"
+                }
+              },
+              "no": {
+                "pregunta": "¿Está pensado para jugarse en cooperativo?",
+                "si": {
+                  "respuesta": "Castle Crashers"
+                },
+                "no": {
+                  "pregunta": "¿Son partidas cortas que empiezan de cero al morir?",
+                  "si": {
+                    "pregunta": "¿Es gratis para jugar?",
+                    "si": {
+                      "respuesta": "Vampire Survivors"
+                    },
+                    "no": {
+                      "respuesta": "Brotato"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Tiene granja o cultivos?",
+                    "si": {
+                      "respuesta": "Stardew Valley"
+                    },
+                    "no": {
+                      "pregunta": "¿Imita sistemas operativos viejos?",
+                      "si": {
+                        "respuesta": "Progressbar95"
+                      },
+                      "no": {
+                        "pregunta": "¿Es un juego casual o hypercasual?",
+                        "si": {
+                          "pregunta": "¿Es continuación de Keep on Mining!?",
+                          "si": {
+                            "respuesta": "Keep on Mining! Worlds"
+                          },
+                          "no": {
+                            "respuesta": "Keep on Mining!"
+                          }
+                        },
+                        "no": {
+                          "respuesta": "Cuphead"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Es de mundo abierto?",
+              "si": {
+                "pregunta": "¿Se juega en primera persona?",
+                "si": {
+                  "pregunta": "¿Puedes construir y craftear cosas?",
+                  "si": {
+                    "respuesta": "Satisfactory"
+                  },
+                  "no": {
+                    "pregunta": "¿Ocurre en un mundo post-apocalíptico?",
+                    "si": {
+                      "respuesta": "Fallout 4"
+                    },
+                    "no": {
+                      "respuesta": "Dying Light"
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+                  "si": {
+                    "pregunta": "¿Gran parte del juego ocurre en el agua?",
+                    "si": {
+                      "respuesta": "Sea of Thieves"
+                    },
+                    "no": {
+                      "respuesta": "Grand Theft Auto V"
+                    }
+                  },
+                  "no": {
+                    "respuesta": "Dead Rising 3"
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Se juega en primera persona?",
+                "si": {
+                  "pregunta": "¿Es un juego de terror?",
+                  "si": {
+                    "respuesta": "Phasmophobia"
+                  },
+                  "no": {
+                    "pregunta": "¿Está pensado para jugarse en cooperativo?",
+                    "si": {
+                      "respuesta": "Portal 2"
+                    },
+                    "no": {
+                      "respuesta": "Slime Rancher"
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Se juega sobre todo en línea con otras personas?",
+                  "si": {
+                    "pregunta": "¿Es gratis para jugar?",
+                    "si": {
+                      "respuesta": "VRChat"
+                    },
+                    "no": {
+                      "respuesta": "Garry's Mod"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Es un juego de terror?",
+                    "si": {
+                      "respuesta": "Buckshot Roulette"
+                    },
+                    "no": {
+                      "pregunta": "¿Es un juego indie pequeño?",
+                      "si": {
+                        "pregunta": "¿Es gratis para jugar?",
+                        "si": {
+                          "respuesta": "Bongo Cat"
+                        },
+                        "no": {
+                          "respuesta": "The Farmer Was Replaced"
+                        }
+                      },
+                      "no": {
+                        "pregunta": "¿Es un juego de peleas?",
+                        "si": {
+                          "respuesta": "Mortal Kombat 11"
+                        },
+                        "no": {
+                          "respuesta": "Age of Empires II"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "no": {
+    "pregunta": "¿Es una persona que existe o existió en la vida real?",
+    "si": {
+      "pregunta": "¿Se dedicó a la ciencia, las matemáticas o la tecnología?",
+      "si": {
+        "pregunta": "¿Es de México?",
+        "si": {
+          "pregunta": "¿Trabajó en biología, química o medicina?",
+          "si": {
+            "respuesta": "Mario Molina"
+          },
+          "no": {
+            "pregunta": "¿Pertenece a la Universidad de Guadalajara?",
+            "si": {
+              "respuesta": "El profe Alberto"
+            },
+            "no": {
+              "respuesta": "Guillermo González Camarena"
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Murió antes del año 1900?",
+          "si": {
+            "pregunta": "¿Es mujer?",
+            "si": {
+              "respuesta": "Ada Lovelace"
+            },
+            "no": {
+              "pregunta": "¿Trabajó en biología, química o medicina?",
+              "si": {
+                "pregunta": "¿Era de Inglaterra?",
+                "si": {
+                  "respuesta": "Charles Darwin"
+                },
+                "no": {
+                  "pregunta": "¿Fue sacerdote, monja o religioso?",
+                  "si": {
+                    "respuesta": "Gregor Mendel"
+                  },
+                  "no": {
+                    "pregunta": "¿Creó la tabla periódica de los elementos?",
+                    "si": {
+                      "respuesta": "Dmitri Mendeléyev"
+                    },
+                    "no": {
+                      "respuesta": "Louis Pasteur"
+                    }
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Trabajó principalmente en física?",
+                "si": {
+                  "pregunta": "¿Destacó en matemáticas o en computación?",
+                  "si": {
+                    "pregunta": "¿Era de Inglaterra?",
+                    "si": {
+                      "respuesta": "Isaac Newton"
+                    },
+                    "no": {
+                      "respuesta": "Arquímedes"
+                    }
+                  },
+                  "no": {
+                    "respuesta": "Galileo Galilei"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es famoso por la astronomía o el espacio?",
+                  "si": {
+                    "respuesta": "Nicolás Copérnico"
+                  },
+                  "no": {
+                    "respuesta": "Leonardo da Vinci"
+                  }
+                }
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Es mujer?",
+            "si": {
+              "pregunta": "¿Destacó en matemáticas o en computación?",
+              "si": {
+                "pregunta": "¿Es famoso por la astronomía o el espacio?",
+                "si": {
+                  "respuesta": "Katherine Johnson"
+                },
+                "no": {
+                  "respuesta": "Grace Hopper"
+                }
+              },
+              "no": {
+                "pregunta": "¿Trabajó principalmente en física?",
+                "si": {
+                  "respuesta": "Marie Curie"
+                },
+                "no": {
+                  "respuesta": "Rosalind Franklin"
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Trabajó principalmente en física?",
+              "si": {
+                "pregunta": "¿Es famoso por la astronomía o el espacio?",
+                "si": {
+                  "respuesta": "Stephen Hawking"
+                },
+                "no": {
+                  "pregunta": "¿Se le conoce sobre todo como inventor?",
+                  "si": {
+                    "respuesta": "Nikola Tesla"
+                  },
+                  "no": {
+                    "pregunta": "¿Era de Alemania?",
+                    "si": {
+                      "pregunta": "¿Es famoso por la teoría de la relatividad?",
+                      "si": {
+                        "respuesta": "Albert Einstein"
+                      },
+                      "no": {
+                        "respuesta": "Werner Heisenberg"
+                      }
+                    },
+                    "no": {
+                      "pregunta": "¿Era de Estados Unidos?",
+                      "si": {
+                        "pregunta": "¿Ganó un Premio Nobel?",
+                        "si": {
+                          "respuesta": "Richard Feynman"
+                        },
+                        "no": {
+                          "respuesta": "Robert Oppenheimer"
+                        }
+                      },
+                      "no": {
+                        "pregunta": "¿Se le recuerda por un experimento imaginario con un gato?",
+                        "si": {
+                          "respuesta": "Erwin Schrödinger"
+                        },
+                        "no": {
+                          "respuesta": "Niels Bohr"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Destacó en matemáticas o en computación?",
+                "si": {
+                  "respuesta": "Alan Turing"
+                },
+                "no": {
+                  "pregunta": "¿Trabajó en biología, química o medicina?",
+                  "si": {
+                    "respuesta": "Alexander Fleming"
+                  },
+                  "no": {
+                    "pregunta": "¿Es famoso por la astronomía o el espacio?",
+                    "si": {
+                      "respuesta": "Carl Sagan"
+                    },
+                    "no": {
+                      "respuesta": "Thomas Edison"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "no": {
+        "pregunta": "¿Es un personaje importante de la historia de México?",
+        "si": {
+          "pregunta": "¿Es de México?",
+          "si": {
+            "pregunta": "¿Murió antes del año 1900?",
+            "si": {
+              "pregunta": "¿Es mujer?",
+              "si": {
+                "pregunta": "¿Participó en la Independencia de México?",
+                "si": {
+                  "pregunta": "¿Se le conoce como la Corregidora?",
+                  "si": {
+                    "respuesta": "Josefa Ortiz de Domínguez"
+                  },
+                  "no": {
+                    "respuesta": "Leona Vicario"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Vivió en la época prehispánica o durante la Conquista?",
+                  "si": {
+                    "respuesta": "La Malinche"
+                  },
+                  "no": {
+                    "respuesta": "Sor Juana Inés de la Cruz"
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Participó en la Independencia de México?",
+                "si": {
+                  "pregunta": "¿Fue presidente de México?",
+                  "si": {
+                    "pregunta": "¿Fue militar, guerrero o caudillo?",
+                    "si": {
+                      "respuesta": "Vicente Guerrero"
+                    },
+                    "no": {
+                      "respuesta": "Guadalupe Victoria"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Fue sacerdote, monja o religioso?",
+                    "si": {
+                      "pregunta": "¿Fue militar, guerrero o caudillo?",
+                      "si": {
+                        "respuesta": "José María Morelos"
+                      },
+                      "no": {
+                        "respuesta": "Miguel Hidalgo"
+                      }
+                    },
+                    "no": {
+                      "pregunta": "¿Llegó a ser emperador?",
+                      "si": {
+                        "respuesta": "Agustín de Iturbide"
+                      },
+                      "no": {
+                        "respuesta": "Ignacio Allende"
+                      }
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Vivió en la época prehispánica o durante la Conquista?",
+                  "si": {
+                    "pregunta": "¿Es famoso por el arte, las letras o el espectáculo?",
+                    "si": {
+                      "respuesta": "Nezahualcóyotl"
+                    },
+                    "no": {
+                      "pregunta": "¿Fue militar, guerrero o caudillo?",
+                      "si": {
+                        "respuesta": "Cuauhtémoc"
+                      },
+                      "no": {
+                        "respuesta": "Moctezuma II"
+                      }
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Fue militar, guerrero o caudillo?",
+                    "si": {
+                      "respuesta": "Antonio López de Santa Anna"
+                    },
+                    "no": {
+                      "respuesta": "Benito Juárez"
+                    }
+                  }
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Es mujer?",
+              "si": {
+                "respuesta": "Frida Kahlo"
+              },
+              "no": {
+                "pregunta": "¿Participó en la Revolución Mexicana?",
+                "si": {
+                  "pregunta": "¿Fue presidente de México?",
+                  "si": {
+                    "pregunta": "¿Fue militar, guerrero o caudillo?",
+                    "si": {
+                      "respuesta": "Venustiano Carranza"
+                    },
+                    "no": {
+                      "respuesta": "Francisco I. Madero"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Luchó en el norte del país?",
+                    "si": {
+                      "respuesta": "Pancho Villa"
+                    },
+                    "no": {
+                      "respuesta": "Emiliano Zapata"
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es famoso por el arte, las letras o el espectáculo?",
+                  "si": {
+                    "pregunta": "¿Su contenido es de humor o sketches?",
+                    "si": {
+                      "respuesta": "Cantinflas"
+                    },
+                    "no": {
+                      "pregunta": "¿Ganó un Premio Nobel?",
+                      "si": {
+                        "respuesta": "Octavio Paz"
+                      },
+                      "no": {
+                        "pregunta": "¿Fue pintor o pintora?",
+                        "si": {
+                          "respuesta": "Diego Rivera"
+                        },
+                        "no": {
+                          "respuesta": "Pedro Infante"
+                        }
+                      }
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Gobernó México más de 30 años seguidos?",
+                    "si": {
+                      "respuesta": "Porfirio Díaz"
+                    },
+                    "no": {
+                      "respuesta": "Lázaro Cárdenas"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "no": {
+            "respuesta": "Hernán Cortés"
+          }
+        },
+        "no": {
+          "pregunta": "¿Es alguien del Centro Universitario de Tlajomulco que conoces en persona?",
+          "si": {
+            "pregunta": "¿Da clases?",
+            "si": {
+              "respuesta": "el profesor Alberto"
+            },
+            "no": {
+              "respuesta": "Walter (Carlos)"
+            }
+          },
+          "no": {
+            "pregunta": "¿Hace su contenido en español?",
+            "si": {
+              "pregunta": "¿Es de México?",
+              "si": {
+                "pregunta": "¿Es mujer?",
+                "si": {
+                  "pregunta": "¿Hace contenido de belleza o estilo de vida?",
+                  "si": {
+                    "respuesta": "Yuya"
+                  },
+                  "no": {
+                    "respuesta": "Kimberly Loaiza"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es más streamer de Twitch que youtuber?",
+                  "si": {
+                    "pregunta": "¿Su canal es principalmente de videojuegos?",
+                    "si": {
+                      "respuesta": "El Mariana"
+                    },
+                    "no": {
+                      "respuesta": "Quackity"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Su contenido es de humor o sketches?",
+                    "si": {
+                      "respuesta": "Werevertumorro"
+                    },
+                    "no": {
+                      "respuesta": "Luisito Comunica"
+                    }
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Es de España?",
+                "si": {
+                  "pregunta": "¿Es famoso por jugar Minecraft?",
+                  "si": {
+                    "pregunta": "¿Se hizo famoso jugando Call of Duty?",
+                    "si": {
+                      "respuesta": "Willyrex"
+                    },
+                    "no": {
+                      "pregunta": "¿Su contenido es animado y para niños?",
+                      "si": {
+                        "respuesta": "Mikecrack"
+                      },
+                      "no": {
+                        "respuesta": "Vegetta777"
+                      }
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Su contenido es de humor o sketches?",
+                    "si": {
+                      "pregunta": "¿Su canal es principalmente de videojuegos?",
+                      "si": {
+                        "respuesta": "elrubiusOMG"
+                      },
+                      "no": {
+                        "respuesta": "AuronPlay"
+                      }
+                    },
+                    "no": {
+                      "pregunta": "¿Se hizo famoso jugando Fortnite?",
+                      "si": {
+                        "respuesta": "TheGrefg"
+                      },
+                      "no": {
+                        "respuesta": "Ibai Llanos"
+                      }
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Su contenido es de humor o sketches?",
+                  "si": {
+                    "pregunta": "¿Su canal es principalmente de videojuegos?",
+                    "si": {
+                      "respuesta": "Fernanfloo"
+                    },
+                    "no": {
+                      "respuesta": "HolaSoyGerman"
+                    }
+                  },
+                  "no": {
+                    "pregunta": "¿Es de Argentina?",
+                    "si": {
+                      "respuesta": "Juan Guarnizo"
+                    },
+                    "no": {
+                      "pregunta": "¿Hace retos enormes y regala dinero?",
+                      "si": {
+                        "respuesta": "Fede Vigevani"
+                      },
+                      "no": {
+                        "pregunta": "¿Es un cantante (hace música)?",
+                        "si": {
+                          "respuesta": "Bad Bonny"
+                        },
+                        "no": {
+                          "respuesta": "Dross Rotzank"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Está vivo actualmente?",
+              "si": {
+                "pregunta": "¿Su canal es principalmente de videojuegos?",
+                "si": {
+                  "pregunta": "¿Hace contenido de terror o misterio?",
+                  "si": {
+                    "respuesta": "Markiplier"
+                  },
+                  "no": {
+                    "pregunta": "¿Tiene más de 50 millones de suscriptores?",
+                    "si": {
+                      "respuesta": "PewDiePie"
+                    },
+                    "no": {
+                      "respuesta": "Jacksepticeye"
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es famoso por jugar Minecraft?",
+                  "si": {
+                    "pregunta": "¿Duró años sin enseñar la cara, solo una máscara?",
+                    "si": {
+                      "respuesta": "Dream"
+                    },
+                    "no": {
+                      "respuesta": "DanTDM"
+                    }
+                  },
+                  "no": {
+                    "respuesta": "MrBeast"
+                  }
+                }
+              },
+              "no": {
+                "respuesta": "Technoblade"
+              }
+            }
+          }
+        }
+      }
+    },
+    "no": {
+      "pregunta": "¿Es de Marvel?",
+      "si": {
+        "pregunta": "¿Tiene superpoderes?",
+        "si": {
+          "pregunta": "¿Es un villano?",
+          "si": {
+            "pregunta": "¿Es mutante de los X-Men?",
+            "si": {
+              "respuesta": "Magneto"
+            },
+            "no": {
+              "pregunta": "¿Usa magia o hechicería?",
+              "si": {
+                "respuesta": "Loki"
+              },
+              "no": {
+                "pregunta": "¿Es un simbionte alienígena negro?",
+                "si": {
+                  "respuesta": "Venom"
+                },
+                "no": {
+                  "respuesta": "Thanos"
+                }
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Es mujer?",
+            "si": {
+              "respuesta": "Scarlet Witch"
+            },
+            "no": {
+              "pregunta": "¿Forma parte de los Vengadores?",
+              "si": {
+                "pregunta": "¿Usa capa?",
+                "si": {
+                  "pregunta": "¿Puede volar?",
+                  "si": {
+                    "respuesta": "Thor"
+                  },
+                  "no": {
+                    "respuesta": "Doctor Strange"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Su traje es principalmente rojo?",
+                  "si": {
+                    "respuesta": "Spider-Man"
+                  },
+                  "no": {
+                    "respuesta": "Hulk"
+                  }
+                }
+              },
+              "no": {
+                "pregunta": "¿Su traje es principalmente rojo?",
+                "si": {
+                  "pregunta": "¿Su contenido es de humor o sketches?",
+                  "si": {
+                    "respuesta": "Deadpool"
+                  },
+                  "no": {
+                    "respuesta": "Daredevil"
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Es de color verde?",
+                  "si": {
+                    "respuesta": "Groot"
+                  },
+                  "no": {
+                    "respuesta": "Wolverine"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Es mujer?",
+          "si": {
+            "respuesta": "Black Widow"
+          },
+          "no": {
+            "pregunta": "¿Forma parte de los Vengadores?",
+            "si": {
+              "pregunta": "¿Puede volar?",
+              "si": {
+                "respuesta": "Iron Man"
+              },
+              "no": {
+                "pregunta": "¿Pelea con un escudo?",
+                "si": {
+                  "respuesta": "Capitán América"
+                },
+                "no": {
+                  "respuesta": "Black Panther"
+                }
+              }
+            },
+            "no": {
+              "pregunta": "¿Es un animal o una planta que habla?",
+              "si": {
+                "respuesta": "Rocket Raccoon"
+              },
+              "no": {
+                "respuesta": "Nick Fury"
+              }
+            }
+          }
+        }
+      },
+      "no": {
+        "pregunta": "¿Tiene superpoderes?",
+        "si": {
+          "pregunta": "¿Es mujer?",
+          "si": {
+            "respuesta": "Wonder Woman"
+          },
+          "no": {
+            "pregunta": "¿Puede volar?",
+            "si": {
+              "pregunta": "¿Usa capa?",
+              "si": {
+                "respuesta": "Superman"
+              },
+              "no": {
+                "respuesta": "Green Lantern"
+              }
+            },
+            "no": {
+              "pregunta": "¿Su traje es principalmente rojo?",
+              "si": {
+                "respuesta": "Flash"
+              },
+              "no": {
+                "pregunta": "¿Domina el mar?",
+                "si": {
+                  "respuesta": "Aquaman"
+                },
+                "no": {
+                  "respuesta": "Cyborg"
+                }
+              }
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Es mujer?",
+          "si": {
+            "pregunta": "¿Va maquillado como payaso?",
+            "si": {
+              "respuesta": "Harley Quinn"
+            },
+            "no": {
+              "respuesta": "Catwoman"
+            }
+          },
+          "no": {
+            "pregunta": "¿Es un villano?",
+            "si": {
+              "pregunta": "¿Es de color verde?",
+              "si": {
+                "respuesta": "Joker"
+              },
+              "no": {
+                "respuesta": "Lex Luthor"
+              }
+            },
+            "no": {
+              "pregunta": "¿Forma parte de la Liga de la Justicia?",
+              "si": {
+                "respuesta": "Batman"
+              },
+              "no": {
+                "respuesta": "Robin"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
