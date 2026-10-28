@@ -32,7 +32,19 @@
                 "no": {
                   "pregunta": "¿Es un battle royale?",
                   "si": {
-                    "respuesta": "PUBG: BATTLEGROUNDS"
+                    "pregunta": "¿Se juega en celular?",
+                    "si": {
+                      "pregunta": "¿Es competencia de COD mobile?",
+                      "si": {
+                        "respuesta": "PUBG Movile"
+                      },
+                      "no": {
+                        "respuesta": "COD Movile"
+                      }
+                    },
+                    "no": {
+                      "respuesta": "PUBG: BATTLEGROUNDS"
+                    }
                   },
                   "no": {
                     "respuesta": "THE FINALS"
@@ -516,7 +528,13 @@
                   "respuesta": "Marie Curie"
                 },
                 "no": {
-                  "respuesta": "Rosalind Franklin"
+                  "pregunta": "¿Trabajaba principalmente en química?",
+                  "si": {
+                    "respuesta": "Marie Curie"
+                  },
+                  "no": {
+                    "respuesta": "Rosalind Franklin"
+                  }
                 }
               }
             },
@@ -525,7 +543,13 @@
               "si": {
                 "pregunta": "¿Es famoso por la astronomía o el espacio?",
                 "si": {
-                  "respuesta": "Stephen Hawking"
+                  "pregunta": "¿Su trabajo fue la relatividad general?",
+                  "si": {
+                    "respuesta": "Albert Einstein"
+                  },
+                  "no": {
+                    "respuesta": "Stephen Hawking"
+                  }
                 },
                 "no": {
                   "pregunta": "¿Se le conoce sobre todo como inventor?",
@@ -761,7 +785,55 @@
               "respuesta": "el profesor Alberto"
             },
             "no": {
-              "respuesta": "Walter (Carlos)"
+              "pregunta": "¿Es compañero de Walter?",
+              "si": {
+                "pregunta": "¿Es hombre?",
+                "si": {
+                  "pregunta": "¿Ha quemado algo de tu propiedad?",
+                  "si": {
+                    "respuesta": "Enrique"
+                  },
+                  "no": {
+                    "pregunta": "¿Es muy apostador?",
+                    "si": {
+                      "respuesta": "Armando"
+                    },
+                    "no": {
+                      "pregunta": "¿Tiene el cabello rizado?",
+                      "si": {
+                        "respuesta": "Donovan"
+                      },
+                      "no": {
+                        "respuesta": "Nicolás"
+                      }
+                    }
+                  }
+                },
+                "no": {
+                  "pregunta": "¿Le gusta snoopy?",
+                  "si": {
+                    "respuesta": "Magali"
+                  },
+                  "no": {
+                    "pregunta": "¿Es del grupito de Walter?",
+                    "si": {
+                      "respuesta": "Emma"
+                    },
+                    "no": {
+                      "pregunta": "¿Es amig@ de Bryth?",
+                      "si": {
+                        "respuesta": "Karen"
+                      },
+                      "no": {
+                        "respuesta": "Brythani"
+                      }
+                    }
+                  }
+                }
+              },
+              "no": {
+                "respuesta": "Walter (Carlos)"
+              }
             }
           },
           "no": {
@@ -1062,7 +1134,13 @@
                   "respuesta": "Aquaman"
                 },
                 "no": {
-                  "respuesta": "Cyborg"
+                  "pregunta": "¿Es un personaje de anime?",
+                  "si": {
+                    "respuesta": "Saitama (One punch man)"
+                  },
+                  "no": {
+                    "respuesta": "Cyborg"
+                  }
                 }
               }
             }
